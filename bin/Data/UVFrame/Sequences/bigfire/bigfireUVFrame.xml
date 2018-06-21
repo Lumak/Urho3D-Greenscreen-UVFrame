@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<node id="1">
+    <attribute name="enabled" value="true" />
+    <attribute name="repeat" value="true" />
+    <attribute name="rows" value="8" />
+    <attribute name="cols" value="12" />
+    <attribute name="numFrames" value="96" />
+    <attribute name="timePerFrame" value="15" />
+</node>
